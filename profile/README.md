@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="brand/astrolix-icon.svg" width="72" alt="Astrolix AI" />
+<img src="../brand/astrolix-icon.svg" width="72" alt="Astrolix AI" />
 
 # Astrolix AI
 
@@ -79,7 +79,7 @@ We build a **local-first, P2P clipboard workbench** for macOS, Windows, and Andr
 
 <div align="center">
 
-<img src="brand/syzygy-app-icon.svg" width="64" alt="Syzygy" />
+<img src="../brand/syzygy-app-icon.svg" width="64" alt="Syzygy" />
 
 <sub>Built with ❤️ for multi-device creators & developers worldwide. / 为全球多设备创作者与开发者打造。</sub>
 
